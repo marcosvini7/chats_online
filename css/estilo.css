@@ -1,0 +1,50 @@
+
+#navegacao h5{
+	cursor: pointer;
+}
+
+.altura {
+	height: 430px;
+}
+
+.margem {
+	margin-top: 100%;
+}
+
+.rolar {
+	overflow-y: scroll;
+}
+.msg {
+    font-size: 1.1em;
+	margin-top: 15px;
+}
+
+.cor{
+	background: #CEF6F5;
+}
+
+.mouse{
+	cursor: pointer;
+}
+.titulo{
+	background: #FBEFFB;
+	
+}
+.esconder {
+	overflow-x: hidden;
+	 white-space:nowrap;
+}
+
+.ocultar {
+	display: none
+}
+
+.arredondar {
+	border-radius: 50px;
+}
+
+.imagem_perfil {
+	height: 300px;
+	width: 300px;
+	overflow: hidden;
+}
